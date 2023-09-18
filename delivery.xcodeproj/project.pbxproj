@@ -17,6 +17,7 @@
 		CE34DCB92AB81F6C00FAD2C0 /* deliveryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE34DCB82AB81F6C00FAD2C0 /* deliveryTests.swift */; };
 		CE34DCC32AB81F6C00FAD2C0 /* deliveryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE34DCC22AB81F6C00FAD2C0 /* deliveryUITests.swift */; };
 		CE34DCC52AB81F6C00FAD2C0 /* deliveryUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE34DCC42AB81F6C00FAD2C0 /* deliveryUITestsLaunchTests.swift */; };
+		CE34DCD22AB8203F00FAD2C0 /* itemsCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE34DCD12AB8203F00FAD2C0 /* itemsCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		CE34DCBE2AB81F6C00FAD2C0 /* deliveryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = deliveryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE34DCC22AB81F6C00FAD2C0 /* deliveryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = deliveryUITests.swift; sourceTree = "<group>"; };
 		CE34DCC42AB81F6C00FAD2C0 /* deliveryUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = deliveryUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CE34DCD12AB8203F00FAD2C0 /* itemsCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = itemsCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				CE34DCA02AB81F6A00FAD2C0 /* SceneDelegate.swift */,
 				CE34DCA22AB81F6A00FAD2C0 /* ViewController.swift */,
 				CE34DCA42AB81F6A00FAD2C0 /* Main.storyboard */,
+				CE34DCD12AB8203F00FAD2C0 /* itemsCollectionViewCell.swift */,
 				CE34DCAA2AB81F6C00FAD2C0 /* Assets.xcassets */,
 				CE34DCAC2AB81F6C00FAD2C0 /* LaunchScreen.storyboard */,
 				CE34DCAF2AB81F6C00FAD2C0 /* Info.plist */,
@@ -265,6 +268,7 @@
 				CE34DCA92AB81F6A00FAD2C0 /* delivery.xcdatamodeld in Sources */,
 				CE34DC9F2AB81F6A00FAD2C0 /* AppDelegate.swift in Sources */,
 				CE34DCA12AB81F6A00FAD2C0 /* SceneDelegate.swift in Sources */,
+				CE34DCD22AB8203F00FAD2C0 /* itemsCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
